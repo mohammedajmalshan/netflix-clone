@@ -1,0 +1,1 @@
+Here’s a Netflix clone website, built with React and Tailwind for a sleek and responsive front-end, and powered by MongoDB, Node.js, and Express on the back-end, delivering a full-stack streaming platform experience.
